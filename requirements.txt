@@ -3,3 +3,5 @@ typing
 langchain-google-genai
 google-generativeai
 dotenv
+langchain-groq
+langchain_openrouter
