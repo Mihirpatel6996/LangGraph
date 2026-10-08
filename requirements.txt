@@ -5,3 +5,4 @@ google-generativeai
 dotenv
 langchain-groq
 langchain_openrouter
+google-genai
