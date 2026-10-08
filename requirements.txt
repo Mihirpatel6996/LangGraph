@@ -6,3 +6,4 @@ dotenv
 langchain-groq
 langchain_openrouter
 google-genai
+langchain-nvidia-ai-endpoints
